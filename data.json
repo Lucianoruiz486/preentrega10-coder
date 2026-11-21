@@ -1,0 +1,10 @@
+[
+  { "id": 1, "nombre": "Zapatillas Running", "precio": 85000, "stock": 10 },
+  { "id": 2, "nombre": "Remera Deportiva", "precio": 22000, "stock": 15 },
+  { "id": 3, "nombre": "Short Deportivo", "precio": 18000, "stock": 12 },
+  { "id": 4, "nombre": "Medias", "precio": 6000, "stock": 30 },
+  { "id": 5, "nombre": "Mochila", "precio": 35000, "stock": 8 },
+  { "id": 6, "nombre": "Botella Térmica", "precio": 9000, "stock": 0 },
+  { "id": 7, "nombre": "Campera Cortaviento", "precio": 65000, "stock": 6 },
+  { "id": 8, "nombre": "Gorra", "precio": 8500, "stock": 20 }
+]
